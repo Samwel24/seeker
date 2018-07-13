@@ -43,9 +43,6 @@ This will check if an item or items exist in an array using "dot" notation
 ```Seek::exists($array, $key);```
 This will determine if the given key exists in the provided array.
 
-``` Affair::destroy()```
-This will destroy all session variables in existence
-
 ``` Seek::set(&$array, $key, $value)```
 This will set an array item to a given value using "dot" notation.
 
