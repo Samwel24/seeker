@@ -67,7 +67,7 @@ class Seek implements SeekInterface
     }
 
     /**
-     * This check if an item or items exist in an array using "dot" notation.
+     * This will check if an item or items exist in an array using "dot" notation.
      *
      * @param  \ArrayAccess|array  $array
      * @param  string|array  $keys
