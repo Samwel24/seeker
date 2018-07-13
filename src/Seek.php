@@ -10,7 +10,7 @@ class Seek implements SeekInterface
     
     
     /**
-     * Add an item to an array using the "dot" notation if it doesn't exist.
+     * This will add an item to an array using the "dot" notation if it doesn't exist.
      *
      * @param  array   $array
      * @param  string  $key
