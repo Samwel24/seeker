@@ -1,5 +1,5 @@
 {
-    "name": "dreamaker/seek",
+    "name": "dreamaker/seeker",
     "description": "this package helps handle array activities, creating, accessing, pushing, pulling items in and array",
     "type": "library",
     "license": "MIT",
