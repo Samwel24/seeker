@@ -5,6 +5,7 @@
 [![license](https://img.shields.io/github/license/Samwel24/seeker.svg)](LICENSE.md)
 [![GitHub forks](https://img.shields.io/github/forks/Samwel24/seeker.svg)](https://github.com/Samwel24/seeker/network)
 [![GitHub stars](https://img.shields.io/github/stars/Samwel24/seeker.svg)](https://github.com/Samwel24/seeker/stargazers)
+[![Installs](https://img.shields.io/github/installs/Samwel24/seeker.svg)](https://packagist.org/packages/dreamaker/seek/stats)
 
 
 
