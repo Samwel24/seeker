@@ -19,7 +19,7 @@
 
 To install the Seeker
 
-first download via composer by running the command `composer require dreamaker\seeker`
+first download via composer by running the command `composer require dreamaker\seek`
 if you do not have composer you could just clone this repo
 
 after download 
