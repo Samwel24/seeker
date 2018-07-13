@@ -1,0 +1,22 @@
+{
+    "name": "dreamaker/seek",
+    "description": "this package helps handle array activities, creating, accessing, pushing, pulling items in and array",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Samuel Ezedi",
+            "email": "samuelezedi@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {},
+    "autoload": {
+
+        "psr-4": {
+
+            "Dreamaker\\Seeker\\": "src/"
+
+        }
+    }
+}
